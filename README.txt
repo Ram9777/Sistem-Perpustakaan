@@ -1,1 +1,1 @@
-fdsf
+Ini adalah sistem informasi perpustakaan untuk Balai Literasi Braille Indonesia, didalamnya terdapat fungsi tambah anggota, tambah data buku, pinjam buku dsb. Data yang terdapat pada database bukan merupakan data asli, melainkan hanya data dummy.
