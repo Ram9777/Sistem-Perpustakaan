@@ -1,0 +1,1 @@
+Ini adalah sistem informasi perpustakaan untuk sebuah instansi tempat saya magang, didalamnya terdapat fungsi tambah anggota, tambah data buku, pinjam buku dsb. Data yang terdapat pada database bukan merupakan data asli, melainkan hanya data dummy.
